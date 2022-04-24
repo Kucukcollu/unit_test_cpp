@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/empty_vector.dir/test/counter_test_empty.cpp.o  -o empty_vector libcounter.a /usr/local/lib/libgtest.a -lpthread 

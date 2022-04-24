@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmake_capital.a  CMakeFiles/make_capital.dir/src/make_capital.cpp.o
+/usr/bin/ranlib libmake_capital.a

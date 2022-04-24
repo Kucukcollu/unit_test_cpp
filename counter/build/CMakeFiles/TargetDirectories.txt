@@ -1,0 +1,6 @@
+/home/ali/courses/udemy/unit_test_cpp/counter/build/CMakeFiles/rebuild_cache.dir
+/home/ali/courses/udemy/unit_test_cpp/counter/build/CMakeFiles/edit_cache.dir
+/home/ali/courses/udemy/unit_test_cpp/counter/build/CMakeFiles/empty_vector.dir
+/home/ali/courses/udemy/unit_test_cpp/counter/build/CMakeFiles/test_runner.dir
+/home/ali/courses/udemy/unit_test_cpp/counter/build/CMakeFiles/counter.dir
+/home/ali/courses/udemy/unit_test_cpp/counter/build/CMakeFiles/main_app.dir

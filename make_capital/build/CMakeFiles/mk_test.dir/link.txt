@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/mk_test.dir/test/make_capital_test.cpp.o  -o mk_test libmake_capital.a /usr/local/lib/libgtest.a -lpthread 

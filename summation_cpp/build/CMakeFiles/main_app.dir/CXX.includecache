@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ali/courses/udemy/unit_test_cpp/summation_cpp/include/summation_cpp/summation.hpp
+
+/home/ali/courses/udemy/unit_test_cpp/summation_cpp/src/main.cpp
+iostream
+-
+../include/summation_cpp/summation.hpp
+/home/ali/courses/udemy/unit_test_cpp/summation_cpp/include/summation_cpp/summation.hpp
+

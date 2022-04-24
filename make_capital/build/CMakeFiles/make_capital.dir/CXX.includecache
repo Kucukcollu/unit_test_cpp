@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ali/courses/udemy/unit_test_cpp/make_capital/include/make_capital/make_capital.hpp
+
+/home/ali/courses/udemy/unit_test_cpp/make_capital/src/make_capital.cpp
+../include/make_capital/make_capital.hpp
+/home/ali/courses/udemy/unit_test_cpp/make_capital/include/make_capital/make_capital.hpp
+cctype
+-
+string.h
+-
+

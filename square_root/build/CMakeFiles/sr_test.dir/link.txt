@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/sr_test.dir/test/square_root_test.cpp.o  -o sr_test /usr/local/lib/libgtest.a -lpthread 

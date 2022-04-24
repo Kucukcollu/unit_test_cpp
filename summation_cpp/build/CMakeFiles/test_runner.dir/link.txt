@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/test_runner.dir/test/summation_test.cpp.o  -o test_runner libmath_lib.a /usr/local/lib/libgtest.a -lpthread 

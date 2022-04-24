@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ali/courses/udemy/unit_test_cpp/square_root/include/square_root/square_root.hpp
+math.h
+-
+stdexcept
+-
+
+/home/ali/courses/udemy/unit_test_cpp/square_root/test/square_root_test.cpp
+iostream
+-
+gtest/gtest.h
+-
+../include/square_root/square_root.hpp
+/home/ali/courses/udemy/unit_test_cpp/square_root/include/square_root/square_root.hpp
+
