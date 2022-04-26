@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/oop_test.dir/test/oop_test.cpp.o  -o oop_test libbank.a /usr/local/lib/libgtest.a -lpthread 

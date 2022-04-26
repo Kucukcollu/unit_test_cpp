@@ -1,0 +1,5 @@
+/home/ali/courses/udemy/unit_test_cpp/bank/build/CMakeFiles/rebuild_cache.dir
+/home/ali/courses/udemy/unit_test_cpp/bank/build/CMakeFiles/edit_cache.dir
+/home/ali/courses/udemy/unit_test_cpp/bank/build/CMakeFiles/oop_test.dir
+/home/ali/courses/udemy/unit_test_cpp/bank/build/CMakeFiles/bank.dir
+/home/ali/courses/udemy/unit_test_cpp/bank/build/CMakeFiles/first_test.dir

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ali/courses/udemy/unit_test_cpp/bank/include/bank/bank.hpp
+
+/home/ali/courses/udemy/unit_test_cpp/bank/test/oop_test.cpp
+iostream
+-
+../include/bank/bank.hpp
+/home/ali/courses/udemy/unit_test_cpp/bank/include/bank/bank.hpp
+gtest/gtest.h
+-
+gmock/gmock.h
+-
+stdexcept
+-
+

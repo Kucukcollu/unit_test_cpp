@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ali/courses/udemy/unit_test_cpp/bank/include/bank/bank.hpp
+
+/home/ali/courses/udemy/unit_test_cpp/bank/src/bank.cpp
+iostream
+-
+../include/bank/bank.hpp
+/home/ali/courses/udemy/unit_test_cpp/bank/include/bank/bank.hpp
+
