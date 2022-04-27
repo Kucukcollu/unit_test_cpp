@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ali/courses/udemy/unit_test_cpp/in_range/include/in_range/validator.hpp
+
+/home/ali/courses/udemy/unit_test_cpp/in_range/test/validator_test_runner.cpp
+../include/in_range/validator.hpp
+/home/ali/courses/udemy/unit_test_cpp/in_range/include/in_range/validator.hpp
+gtest/gtest.h
+-
+gmock/gmock.h
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/validator_test_runner.dir/test/validator_test_runner.cpp.o  -o validator_test_runner libvalidator.a /usr/local/lib/libgtest.a -lpthread 
